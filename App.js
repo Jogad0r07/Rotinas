@@ -36,7 +36,12 @@ export default function App() {
         imagem="6.png"
         descricao="Todos os dias"
       ></Card>
-
+      <Card
+        porcentagem="41.67%"
+        titulo="Arrumar e Organizar a casa"
+        imagem="6.png"
+        descricao="Todos os dias"
+      ></Card>
     </View>
   );
 }
