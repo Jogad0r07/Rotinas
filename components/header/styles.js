@@ -6,6 +6,8 @@ const estilo = StyleSheet.create({
     fontSize: 35,
     fontWeight: "bold",
     marginTop: 20,
+    
+    
   },
   subtitulo: {
     fontSize: 20,
